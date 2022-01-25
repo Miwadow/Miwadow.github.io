@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #c06bb58a;
 }
 
 body {
@@ -30,7 +30,7 @@ p, input, li {
 h1 {
   font-size: 4rem;
   text-align: center;
-  color: white;
+  color: rgba(141, 65, 2, 0.911);
   text-shadow: 2px 2px 10px black;
 }
 
@@ -51,13 +51,13 @@ p, li {
 /* || header layout */
 
 nav, article, aside, footer {
-  background-color: white;
+  background-color: #e0bd48;
   padding: 1%;
 }
 
 nav {
   height: 50px;
-  background-color: #ff80ff;
+  background-color: #6766bbc9;
   display: flex;
   margin-bottom: 10px;
 }
@@ -121,7 +121,7 @@ article {
 aside {
   flex: 1;
   margin-left: 10px;
-  background-color: #ff80ff;
+  background-color: #00cc92;
 }
 
 aside li {
